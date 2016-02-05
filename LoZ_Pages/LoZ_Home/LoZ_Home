@@ -18,24 +18,24 @@
   <h1>The Legend of Zelda</h1>
   </header>
   <nav>
-    <a href="LoZ_LoZ">Legend of Zelda</a>
-    <a href="LoZ_LoZ-II">Zelda II: The Adventure of Link</a>
-    <a href="LoZ_LttP&FS">Link to the Past</a>
-    <a href="LoZ_LA">Link's Awakening</a>
-    <a href="LoZ_OoT">Ocarina of Time</a>
-    <a href="LoZ_MM">Majora's Mask</a>
-    <a href="LoZ_OoA">Oracle of Ages</a>
-    <a href="LoZ_OoS">Oracle of Seasons</a>
-    <a href="LoZ_LttP&FS">Four Swords</a>
-    <a href="LoZ_WW">The Wind Waker</a>
-    <a href="LoZ_FSA">Four Sword Adventures</a>
-    <a href="LoZ_MC">The Minish Cap</a>
-    <a href="LoZ_TP">Twilight Princess</a>
-    <a href="LoZ_PH">Phantom Hourglass</a>
-    <a href="LoZ_ST">Spirit Tracks</a>
-    <a href="LoZ_SS">Skyward Sword</a>
-    <a href="LoZ_LBW">A Link Between Worlds</a>
-    <a href="LoZ_TFH">Tri Force Heroes</a>
+    <a href=".../LoZ_LoZ/LoZ_LoZ">Legend of Zelda</a>
+    <a href=".../LoZ_LoZ-II">Zelda II: The Adventure of Link</a>
+    <a href=".../LoZ_LttP&FS">Link to the Past</a>
+    <a href=".../LoZ_LA">Link's Awakening</a>
+    <a href=".../LoZ_OoT">Ocarina of Time</a>
+    <a href=".../LoZ_MM">Majora's Mask</a>
+    <a href=".../LoZ_OoA">Oracle of Ages</a>
+    <a href=".../LoZ_OoS">Oracle of Seasons</a>
+    <a href=".../LoZ_LttP&FS">Four Swords</a>
+    <a href=".../LoZ_WW">The Wind Waker</a>
+    <a href=".../LoZ_FSA">Four Sword Adventures</a>
+    <a href=".../LoZ_MC">The Minish Cap</a>
+    <a href=".../LoZ_TP">Twilight Princess</a>
+    <a href=".../LoZ_PH">Phantom Hourglass</a>
+    <a href=".../LoZ_ST">Spirit Tracks</a>
+    <a href=".../LoZ_SS">Skyward Sword</a>
+    <a href=".../LoZ_LBW">A Link Between Worlds</a>
+    <a href=".../LoZ_TFH">Tri Force Heroes</a>
   </nav>
   <section>
     <p>
