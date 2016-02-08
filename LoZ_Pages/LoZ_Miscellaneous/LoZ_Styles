@@ -3,7 +3,9 @@ body {
       
       }
 .header {
-         
+         display:block;
+         height: 200px;
+         background-color: rgb(40,40,40);
          }
 .footer {
          display:block;
