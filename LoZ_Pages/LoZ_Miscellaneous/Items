@@ -39,12 +39,12 @@
     <a href="../LoZ_Miscellaneous/Items">Items</a>
   </nav>
   <section>
-  <h2 id="Master">Master Sword<h2>
+  <h2 id="Master" class="left">Master Sword<h2>
     <p>
     The master Sword is the hero's main weapon. You normally begin your story getting a simple wood or metal sword and eventually obtain the master sword which is needed to defeat the evil monsters in the world.
     </p>
     
-    <h2 id="Rupees">Rupees<h2>
+    <h2 id="Rupees" class="right">Rupees<h2>
     <p>
     Rupees are the currency of the world. The basic ones (most of them anyway) appear in every game while the special ones only appear in a few.
     </p>
@@ -80,7 +80,7 @@
 </table>
 
     
-    <h2 id="Potions">Potions<h2>
+    <h2 id="Potions" class="left">Potions<h2>
     <p>
     Potions are items that can heal you when you use them. There are many potions in the later games but here are the basic ones that appear in most games.
     </p>
@@ -99,42 +99,42 @@
   </tr>
 </table>
     
-    <h2 id="Sheild">Sheild<h2>
+    <h2 id="Sheild" class="right">Sheild<h2>
     <p>
     There are many sheilds in the world and Link will need one if he hopes to survive. Like the Master Sword, in most games you often start with a simple wooden or metal sheild but can obtain the Hyrulian sheild later on.
     </p>
     
-    <h2 id="Bombs">Bombs<h2>
+    <h2 id="Bombs" class="left">Bombs<h2>
     <p>
     Bombs are incredibly improtant to Link. They can be used to attack enemies, reveal secrets in the walls or floors, or activate some switches for puzzels in dungeons. But they're still dangerous so you have to have a bomb bag before you can carry any bombs at all.
     </p>
     
-    <h2 id="Bow">Bow<h2>
+    <h2 id="Bow" class="right">Bow<h2>
     <p>
     The bow and arrow is simple but powerful. Like the bomb, it allows link to attack enemies from a dictance or activate some unreachable switches. In some games it is a powerful weapon needed to defeat the evil boss and is sometimes even weilded by the princess Zelda herself to help you.
     </p>
     
-    <h2 id="Hook">Hook Shot<h2>
+    <h2 id="Hook" class="left">Hook Shot<h2>
     <p>
     The Hook Shot is a very unique item because while it's main purpose is to latch onto certain areas like hooks or vines on the walls and ceilings, it can also function as a weapon allowing you to attack enemies from a short distance. Although it isn't a very effective weapon it can get you out of a tight spot.
     </p>
     
-    <h2 id="Compass">Compass and Map<h2>
+    <h2 id="Compass" class="right">Compass and Map<h2>
     <p>
     These items appear in every official Legend of Zelda game ever. They appear in dungeons to help Link find his way through. The Map will reveal the layout of the dungeon he is currently in if he has found it and will sometimes reveal the locations of chests or secrets throughout. The Compass will often show you the location of certain important chests containing items in the dungeon such as weapons or a special key needed to access the boss. It will sometimes reveal the location secret rooms within the dungeon as well.
     </p>
     
-    <h2 id="Boomerang">Boomerang<h2>
+    <h2 id="Boomerang" class="left">Boomerang<h2>
     <p>
     The boomerang is a simple weapon with many uses. The boomerang is often the first ot second item obtained in the game. It isn't usually very effective as a weapon but can stun your enemies from a distance or even pick up sertain items such as rupees or small keys that you can't reach. It can also activate certain switches in dungeons.
     </p>
     
-    <h2 id="Slingshot">Slingshot<h2>
+    <h2 id="Slingshot" class="right">Slingshot<h2>
     <p>
     The slingshot is basically a down-graded boomerang. It can stun enemies and activate certain unreachable swtiches from a distance. It requires you have ammo for it though and doesnt have any uses beyond that though.
     </p>
     
-    <h2 id="Heart">Heart Canisters/Peices<h2>
+    <h2 id="Heart" class="left">Heart Canisters/Peices<h2>
     <p>
     These are incredibly important and special items found throughout the world in every zelda game. The Heart Canisters increase you maximum life by one heart. They are obtained by either defeating the bosses or collecting enough Heart Peices. Heart Peices are scattered and hidden throughout the world. They can be found in several ways. Some can be bought from certain shops, won from certain games, or obtained from people for completing side quests. Most are just found in hidden or difficult to reach areas in the world or in hidden chests in dungeons.
     </p>
