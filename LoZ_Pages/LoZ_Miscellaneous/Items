@@ -39,55 +39,102 @@
     <a href="../LoZ_Miscellaneous/Items">Items</a>
   </nav>
   <section>
-  <h2>Master Sword<h2>
+  <h2 id="Master">Master Sword<h2>
     <p>
     The master Sword is the hero's main weapon. You normally begin your story getting a simple wood or metal sword and eventually obtain the master sword which is needed to defeat the evil monsters in the world.
     </p>
     
-    <h2>Rupees<h2>
+    <h2 id="Rupees">Rupees<h2>
     <p>
+    Rupees are the currency of the world. The basic ones (most of them anyway) appear in every game while the special ones only appear in a few.
     </p>
+    <table width="200" border="1">
+  <tr>
+    <th colspan="3" scope="col">Basic</th>
+    <th colspan="2" scope="col">Special</th>
+  </tr>
+  <tr>
+    <td><p>Green</p>
+    <p>(1)</p></td>
+    <td><p>Blue</p>
+    <p>(5)</p></td>
+    <td><p>Red</p>
+    <p>(20)</p></td>
+    <td><p>Silver</p>
+    <p>(200)</p></td>
+    <td><p>Yellow</p>
+    <p>(10)</p></td>
+  </tr>
+  <tr>
+    <td><p>Big Green</p>
+    <p>(100)</p></td>
+    <td><p>Purple</p>
+    <p>(50)</p></td>
+    <td><p>Big Red</p>
+    <p>(200)</p></td>
+    <td><p>Gold</p>
+    <p>(300)</p></td>
+    <td><p>Gray / Big Gray</p>
+    <p>(-5 / -50)</p></td>
+  </tr>
+</table>
+
     
-    <h2>Potions<h2>
+    <h2 id="Potions">Potions<h2>
     <p>
+    Potions are items that can heal you when you use them. There are many potions in the later games but here are the basic ones that appear in most games.
     </p>
+    <table width="200" border="1">
+  <tr>
+    <td>Red Potion</td>
+    <td>Blue Potion</td>
+    <td>Purple Potion</td>
+    <td>Fairy in a Bottle</td>
+  </tr>
+  <tr>
+    <td>The most basic of potions. Heals about 6 hearts</td>
+    <td>In the second game it restores magic. in the other games it heals about 8 hearts</td>
+    <td>Doesn't appear until the later games. Heals 4 hearts after death and in some games repairs your sheild as well.</td>
+    <td>Restores about 8 or all of your hearts (depending on the game) upon use or will automatically revive you upon death.</td>
+  </tr>
+</table>
     
-    <h2>Sheild<h2>
+    <h2 id="Sheild">Sheild<h2>
     <p>
     There are many sheilds in the world and Link will need one if he hopes to survive. Like the Master Sword, in most games you often start with a simple wooden or metal sheild but can obtain the Hyrulian sheild later on.
     </p>
     
-    <h2>Bombs<h2>
+    <h2 id="Bombs">Bombs<h2>
     <p>
     Bombs are incredibly improtant to Link. They can be used to attack enemies, reveal secrets in the walls or floors, or activate some switches for puzzels in dungeons. But they're still dangerous so you have to have a bomb bag before you can carry any bombs at all.
     </p>
     
-    <h2>Bow<h2>
+    <h2 id="Bow">Bow<h2>
     <p>
     The bow and arrow is simple but powerful. Like the bomb, it allows link to attack enemies from a dictance or activate some unreachable switches. In some games it is a powerful weapon needed to defeat the evil boss and is sometimes even weilded by the princess Zelda herself to help you.
     </p>
     
-    <h2>Hook Shot<h2>
+    <h2 id="Hook">Hook Shot<h2>
     <p>
     The Hook Shot is a very unique item because while it's main purpose is to latch onto certain areas like hooks or vines on the walls and ceilings, it can also function as a weapon allowing you to attack enemies from a short distance. Although it isn't a very effective weapon it can get you out of a tight spot.
     </p>
     
-    <h2>Compass and Map<h2>
+    <h2 id="Compass">Compass and Map<h2>
     <p>
     These items appear in every official Legend of Zelda game ever. They appear in dungeons to help Link find his way through. The Map will reveal the layout of the dungeon he is currently in if he has found it and will sometimes reveal the locations of chests or secrets throughout. The Compass will often show you the location of certain important chests containing items in the dungeon such as weapons or a special key needed to access the boss. It will sometimes reveal the location secret rooms within the dungeon as well.
     </p>
     
-    <h2>Boomerang<h2>
+    <h2 id="Boomerang">Boomerang<h2>
     <p>
     The boomerang is a simple weapon with many uses. The boomerang is often the first ot second item obtained in the game. It isn't usually very effective as a weapon but can stun your enemies from a distance or even pick up sertain items such as rupees or small keys that you can't reach. It can also activate certain switches in dungeons.
     </p>
     
-    <h2>Slingshot<h2>
+    <h2 id="Slingshot">Slingshot<h2>
     <p>
     The slingshot is basically a down-graded boomerang. It can stun enemies and activate certain unreachable swtiches from a distance. It requires you have ammo for it though and doesnt have any uses beyond that though.
     </p>
     
-    <h2>Heart Canisters/Peices<h2>
+    <h2 id="Heart">Heart Canisters/Peices<h2>
     <p>
     These are incredibly important and special items found throughout the world in every zelda game. The Heart Canisters increase you maximum life by one heart. They are obtained by either defeating the bosses or collecting enough Heart Peices. Heart Peices are scattered and hidden throughout the world. They can be found in several ways. Some can be bought from certain shops, won from certain games, or obtained from people for completing side quests. Most are just found in hidden or difficult to reach areas in the world or in hidden chests in dungeons.
     </p>
