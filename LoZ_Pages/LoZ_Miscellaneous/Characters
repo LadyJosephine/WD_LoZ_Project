@@ -39,61 +39,57 @@
     <a href="../LoZ_Miscellaneous/Items">Items</a>
   </nav>
   <section>
-  <h2 id="Link">Link<h2>
+  <h2 id="Link" class="left">Link<h2>
     <p>
     This is the hero, the character you play as in all of the games. He is the one destined to save the world! He must travel through dungeons collecting items in order to save the princess, defeat the evil demons, and protect the Triforce! He represents the Triforce of courage.
    </p>
     
-    <h2 id="Zelda">Zelda<h2>
+    <h2 id="Zelda" class="right">Zelda<h2>
     <p>
     This is the princess. She's the decendant, or sometimes even the reincarnation, of a goddess. She is usually the protector of the Triforce and as such is always being captured by evil forces that wish to use the Triforce themselves. She represents the Triforce of wisdom.
     </p>
-    
-    <h2 id="Sheik">Sheik<h2>
-    <p>
-    </p>
-    
-    <h2 id="Impa">Impa<h2>
+  
+    <h2 id="Impa" class="left">Impa<h2>
     <p>
   Impa is a strong woman who is assigned to protect the princess or to help the hero save her. She is an incredibly strong fighter and incredibly wise and knowledgeable about the Triforce and the goddesses which makes her and incredibly valuable ally.
     </p>
     
-    <h2 id="Ganondorf">Ganondorf<h2>
+    <h2 id="Ganondorf" class="right">Ganondorf<h2>
     <p>
   This is the king of the dark and evil forces and the one who seeks to take the Triforce and use its power to rule or destroy the world. He represents the Triforce of Power.
     </p>
     
-    <h2 id="Navi">Navi<h2>
+    <h2 id="Navi" class="left">Navi<h2>
     <p>
    This is your fairy companion. She's been known by a couple names but is most well know as Navi. She follows you around and gives you helpful advice from time to time.
     </p>
     
-    <h2 id="Linebeck">Linebeck<h2>
+    <h2 id="Linebeck" class="right">Linebeck<h2>
     <p>
    Linebeck is a snotty, self-centered captian who's only love is for treasure. Whevever he makes an appearance he is always the captain of some great vehicle like a boat or a train. In some games he will show up and tag along with the hero in the hopes of finding great treasures.
     </p>
     
-    <h2 id="Tingle">Tingle<h2>
+    <h2 id="Tingle" class="left">Tingle<h2>
     <p>
     
     </p>
     
-    <h2 id="Goddesses">The GodessesFarore Din Nayru<h2>
+    <h2 id="Goddesses" class="right">The GodessesFarore Din Nayru<h2>
     <p>
     Farore, Din, and Nayru are the goddesses of courage, power, and wisdom (in that order). In most games you must enter temples to recieve items or abilities from the goddesses after obtaining certain items or completeing certain dungeons. In some games the goddesses will appear in person to bestow these items upon you but in most they simply are mentioned in legend.
     </p>
     
-    <h2 id="Old Man">The Old Man<h2>
+    <h2 id="Old Man" class="left">The Old Man<h2>
     <p>
    In the original game, this man appears in a cave to give you your first sword and in secret areas in some dungeons . In the next couple games he appears in houses and shops as a merchant. In Phantom Hourglass he appears at the begining as a mysterious old man that saves you from the ocean and is later reveal to be the god of the sea
     </p>
     
-    <h2 id="Gorons">Gorons<h2>
+    <h2 id="Gorons" class="right">Gorons<h2>
     <p>
     The Gorons are a race of rock-like people that live in the mountains. They are incredibly strong and proud people. The usually are guarding the pathway to the mountains or a temple and you will have to befreind them or prove yourself the them to pass.
    </p>
     
-    <h2 id="Zoras">Zoras</h2>
+    <h2 id="Zoras" class="left">Zoras</h2>
     <p>
     The Zoras are a proud race of fish people that live underwater in great lakes and rivers. The appear as enemies in some games but in others they are friendly and helpful. Like the Gorons, they will usually be guarding a temple but they wont often make you prove yourself to them in any way since getting to their home and surviving in it is practically impossible for anyone but a Zora. 
     </p>
